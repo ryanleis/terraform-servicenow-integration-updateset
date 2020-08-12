@@ -2,10 +2,12 @@
 
 This Integration/ App was installed from VCS and then exported into a single Update Set for testing on-Prem ServiceNow instances only.
 
-**This is for testing pruposes only. It is not the official HashiCorp app.**
+**This is for testing purposes only**
+**It is not the official HashiCorp app.**
 **Please do not use in production.**
 
-For the Officlal / Certified app please download from:
+For the Officlal / Certified app please download from the:
+
 ServiceNow Store - https://store.servicenow.com/
 
 **Upload:**
