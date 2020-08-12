@@ -4,10 +4,8 @@ This Integration/ App was installed from VCS and then exported into a single Upd
 
 Note:
 -----------
-**1. This is for testing purposes only!** <br />
-**1. It is not the official HashiCorp app!** <br />
-**1. Please do not use in production!** <br />
-
+This is for testing purposes only .... It is not the official HashiCorp app! <br />
+**Do not use in production!** <br />
 
 For the Officlal / Certified app please download from the:
 
