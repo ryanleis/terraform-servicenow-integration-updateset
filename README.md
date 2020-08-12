@@ -6,7 +6,7 @@ This Integration/ App was installed from VCS and then exported into a single Upd
 **Please do not use in production.**
 
 For the Officlal / Certified app please download from:
-[ServiceNow Store] (https://store.servicenow.com/)
+ServiceNow Store - https://store.servicenow.com/
 
 **Upload:**
 1. Navigate to Update Sets -> Retrieved Update sets
