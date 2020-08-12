@@ -4,12 +4,11 @@ This Integration/ App was installed from VCS and then exported into a single Upd
 
 Note:
 -----------
-**This is for testing purposes only.**
-**It is not the official HashiCorp app.**
-**Please do not use in production.**
+**This is for testing purposes only.**.
+**It is not the official HashiCorp app.**.
+**Please do not use in production.**.
 
 For the Officlal / Certified app please download from the:
-
 **ServiceNow Store** - https://store.servicenow.com/
 
 ------------------
@@ -21,8 +20,9 @@ Upload:
 
 Commit:
 --------------
-1. Once Uploaded completes click into the Terraform Update Set that is now listedOnce in the record - Click on the button [Preview Update Set] 
-1. This may result in errors depending on your version (I got 6 with Orlando) - in that case just "Approve" / "Skip Remote Update" (from far right of each error).
+1. Once upload completes click into the Terraform Update Set that is now listed
+1. Once in the record - click on the button [Preview Update Set] 
+1. This may result in errors depending on your version (I got 6 with Orlando) - in that case just select "Approve" / "Skip Remote Update" from teh far right of each error.
 1. Once all Errors are skipped/ accepted hit the button that now appears - [Commit Update Set] 
 
 This will install the terraform app.
