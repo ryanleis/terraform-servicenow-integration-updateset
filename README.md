@@ -1,14 +1,13 @@
 # Terraform Servicenow Integration Update Set
 
-This Integration/ App was installed from VCS and then exported into a single Update Set for testing on-Prem ServiceNow instances only.
+This Integration/ App was installed from VCS and then exported into a single Update Set for testing on-Prem ServiceNow instances that cannot reach the ServiceNow Store.
 
 Note:
 -----------
 This is for testing purposes only .... It is not the official HashiCorp app! <br />
 **Do not use in production!** <br />
 
-For the Officlal / Certified app please download from the:
-
+For the Officlal / Certified app please download from the: <br />
 **ServiceNow Store** - https://store.servicenow.com/
 
 ------------------
@@ -26,5 +25,13 @@ Commit:
 1. Once all Errors are skipped/ accepted hit the button that now appears - [Commit Update Set] 
 
 This will install the terraform app.
+
+Add Terraform Service Catalog:
+-------------------------------
+1. Navigate to Service Catalog -> Catalog
+1. Click the "+" in the top right coner to "add content"
+1. Select "Terraform Catalog" and click [Add here]
+
+This will install the Terraform Service Catalog with pre built Catalog Items.
 
 #
