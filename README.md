@@ -10,6 +10,8 @@ This is for testing purposes only .... It is not the official HashiCorp app! <br
 For the Official / Certified app please download from the: <br />
 **ServiceNow Store** - https://store.servicenow.com/
 
+Alternate method:<br /> https://store.servicenow.com/sn_appstore_store.do#!/store/help?article=KB0030267
+
 ------------------
 
 Upload:
