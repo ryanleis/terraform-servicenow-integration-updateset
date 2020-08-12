@@ -4,11 +4,12 @@ This Integration/ App was installed from VCS and then exported into a single Upd
 
 Note:
 -----------
-**This is for testing purposes only.**.
-**It is not the official HashiCorp app.**.
-**Please do not use in production.**.
+This is for testing purposes only.
+It is not the official HashiCorp app.
+Please do not use in production.
 
 For the Officlal / Certified app please download from the:
+
 **ServiceNow Store** - https://store.servicenow.com/
 
 ------------------
