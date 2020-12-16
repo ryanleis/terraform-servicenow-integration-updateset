@@ -25,10 +25,11 @@ Upload Update Set:
 
 Commit:
 --------------
-1. Once upload completes click into the Terraform Update Set that is now listed
+1. Once upload completes - click into the "Terraform" Update Set that is now listed
 1. Once in the record - click on the button **[Preview Update Set]**
-1. This may result in errors depending on your version (I got 6 with Orlando) - in that case just select "Approve" / "Skip Remote Update" from the far right of each error.
-1. Once all Errors are skipped/ accepted hit the button that now appears - **[Commit Update Set]**
+1. This may result in errors depending on your version (I got 6 with Orlando/Paris) - Just hit Close
+1. In the case of errors - inspect the "Update Set Preview Problems" related list and select "Approve" or "Skip Remote Update" from the far right of each error.
+1. Once all Errors are skipped/ accepted hit the button that now appears in teh top right corner - **[Commit Update Set]**
 
 This will install the terraform app.
 
