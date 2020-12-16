@@ -17,7 +17,7 @@ Clone:
 -------------
 1. git clone https://github.com/ryanleis/terraform-servicenow-integration-updateset.git
 
-**ServiceNow
+# ServiceNow SetUp
 Upload Update Set:
 -------------
 1. Navigate to Update Sets -> Retrieved Update sets
