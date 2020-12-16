@@ -13,11 +13,11 @@ For the Official / Certified app please download from the: <br />
 Alternate method:<br /> https://store.servicenow.com/sn_appstore_store.do#!/store/help?article=KB0030267
 
 ------------------
+# ServiceNow SetUp
 Clone:
 -------------
 1. git clone https://github.com/ryanleis/terraform-servicenow-integration-updateset.git
 
-# ServiceNow SetUp
 Upload Update Set:
 -------------
 1. Navigate to Update Sets -> Retrieved Update sets
