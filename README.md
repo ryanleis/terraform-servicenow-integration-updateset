@@ -5,8 +5,8 @@ This Integration/ App was installed from VCS and then exported into a single Upd
 Resources:
 ---------------
 Follow the Steps in these resources:
-Step By Step Guide - https://www.terraform.io/docs/cloud/integrations/service-now/index.html
-Demo Walk- Thru video - https://www.hashicorp.com/resources/terraform-servicenow-new-integration-means-for-your-devops-workflows
+1. Step By Step Guide - https://www.terraform.io/docs/cloud/integrations/service-now/index.html
+1. Demo Walk- Thru video - https://www.hashicorp.com/resources/terraform-servicenow-new-integration-means-for-your-devops-workflows
 
 Note:
 -----------
@@ -53,7 +53,7 @@ Connect ServiceNow to Terraform Cloud:
 1. Navigate to Terraform -> Config
 1. Click "New"
 1. Populate the following
-    1. Set Org Name = Terraform Cloud Organization"
+    1. Set Org Name = Terraform Cloud Organization
     1. Set Hostname = https://app.terraform.io
     1. Set API Team Token to the Terraform Cloud team API token
 1. Click Submit
